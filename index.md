@@ -18,13 +18,17 @@
 ---
 [Galaxy Dog](http://example.com/)
 <img src="images/dog.png"/>
+
+---
+[Earth Day](http://example.com/)
+<img src="images/Earth Day.png"/>
 ### Category Name 2
 
 - [Double Exposure Effect](http://example.com/)
 - [Ripped Effect Portrait](http://example.com/)
 - [Grafitti style image](http://example.com/)
 - [Galaxy Dog](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Earth Day](http://example.com/)
 
 ---
 
