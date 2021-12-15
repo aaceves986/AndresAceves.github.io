@@ -13,10 +13,11 @@
 
 ---
 [Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/graffitti.png"/>
 
 ---
-
+[Project 4 Title](http://example.com/)
+<img src="images/dog.png"/>
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
