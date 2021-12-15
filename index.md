@@ -4,26 +4,26 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Double Exposure Effect](/sample_page)
 <img src="images/John Zena.png"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Ripped Effect Portrait](/pdf/sample_presentation.pdf)
 <img src="images/TS.png"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Grafitti style image](http://example.com/)
 <img src="images/graffitti.png"/>
 
 ---
-[Project 4 Title](http://example.com/)
+[Galaxy Dog](http://example.com/)
 <img src="images/dog.png"/>
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
+- [Double Exposure Effect](http://example.com/)
+- [Ripped Effect Portrait](http://example.com/)
+- [Grafitti style image](http://example.com/)
+- [Galaxy Dog](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
 ---
