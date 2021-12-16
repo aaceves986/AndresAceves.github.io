@@ -1,8 +1,7 @@
 ## Andres' Portfolio
 
----
-
-### Category Name 1 
+--- 
+Edited Photos
 
 [Double Exposure Effect](/sample_page)
 <img src="images/John Zena.png"/>
@@ -22,6 +21,14 @@
 ---
 [Earth Day](http://example.com/)
 <img src="images/Earth Day.png"/>
+
+---
+[Cool Retro Collage](http://example.com/)
+<img src="images/Reto Spongebob.png"/>
+
+---
+[3D Pop Out Effect](http://example.com/)
+<img src="images/Mike.png"/>
 ### Category Name 2
 
 - [Double Exposure Effect](http://example.com/)
@@ -29,6 +36,8 @@
 - [Grafitti style image](http://example.com/)
 - [Galaxy Dog](http://example.com/)
 - [Earth Day](http://example.com/)
+- [Cool Retro Collage](http://example.com/)
+- [3D Pop Out Effect](http://example.com/)
 
 ---
 
