@@ -24,11 +24,11 @@ Edited Photos
 
 ---
 [Cool Retro Collage](http://example.com/)
-<img src="images/Reto Spongebob.png"/>
+<img src="images/Retro Spongebob.png"/>
 
 ---
 [3D Pop Out Effect](http://example.com/)
-<img src="images/Mike.png"/>
+<img src="images/mike.png"/>
 ### Category Name 2
 
 - [Double Exposure Effect](http://example.com/)
