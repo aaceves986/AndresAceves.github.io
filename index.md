@@ -24,7 +24,7 @@ Edited Photos
 
 ---
 [Cool Retro Collage](http://example.com/)
-<img src="images/Retro Spongebob.png"/>
+<img src="images/Retro Spongbob.png"/>
 
 ---
 [3D Pop Out Effect](http://example.com/)
